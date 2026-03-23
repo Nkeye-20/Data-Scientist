@@ -1,2 +1,1 @@
-# Data-Scientist
-Projeto de analista de dados 
+Meu primeiro projeto de Data Science 
